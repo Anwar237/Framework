@@ -42,8 +42,9 @@ public class BaseClass
 	
 	{
     	
-    	
+    	// logs started
 		 Reporter.log("browser started", true);
+		 
 		// driver=BrowserFactory.loginapp(driver, config.getBrowser(), config.getAppUrl());
 		 
 		 // parameter browser giving from mvn build
